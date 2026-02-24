@@ -7,3 +7,8 @@ Rust Dortmund Meetup is a hybrid meetup for individuals working with Rust or eag
 - Connecting Expertise from Dortmund to the World!
 - Give people around the world an impression of our amazing City!
 
+## Links
+
+- Register via [Meetup.com](https://www.meetup.com/rust-dortmund/)
+- Find Recordings on our [YouTube Channel](https://www.youtube.com/@Rust-Dortmund)
+- Follow us on [LinkedIn](https://www.linkedin.com/company/rust-dortmund)
